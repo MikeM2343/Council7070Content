@@ -38,5 +38,8 @@
     "fileConfig": {
         "provider": "GoogleCloudStorage",
         "bucket": "qa.files.storage.kc7070.ca"
+    },
+    "calendarConfig": {
+        "emailToImpersonate": "PublicRelations@kc7070.ca"
     }
 }
