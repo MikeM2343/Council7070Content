@@ -1,45 +1,18 @@
 {
     "contentSource": {
         "provider": "GithubStorage",
-        "owner": "MikeM2343",
+        "owner": "mikem2343",
         "repository": "Council7070Content",
         "branch": "qa"
     },
     "webImages": {
-        "source": {
-            "provider": "GoogleCloudStorage",
-            "bucket": "qa.web.storage.kc7070.ca"
-        },
-        "cache": {
-            "provider": "GoogleCloudStorage",
-            "bucket": "qa.web-cache.storage.kc7070.ca"
-        }
-    },
-    "pictures": {
-        "source": {
-            "provider": "GoogleCloudStorage",
-            "bucket": "qa.pictures.storage.kc7070.ca"
-        },
-        "cache": {
-            "provider": "GoogleCloudStorage",
-            "bucket": "qa.pictures-cache.storage.kc7070.ca"
-        }
+        "source": {},
+        "cache": {}
     },
     "pictureConfig": {
-        "source": {
-            "provider": "GoogleCloudStorage",
-            "bucket": "qa.pictures.storage.kc7070.ca"
-        },
-        "cache": {
-            "provider": "GoogleCloudStorage",
-            "bucket": "qa.pictures-cache.storage.kc7070.ca"
-        }
+        "source": {},
+        "cache": {}
     },
-    "fileConfig": {
-        "provider": "GoogleCloudStorage",
-        "bucket": "qa.files.storage.kc7070.ca"
-    },
-    "calendarConfig": {
-        "emailToImpersonate": "PublicRelations@kc7070.ca"
-    }
+    "fileConfig": {},
+    "calendarConfig": {}
 }
