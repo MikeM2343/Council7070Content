@@ -1,9 +1,9 @@
 {
     "contentSource": {
         "provider": "GithubStorage",
-        "owner": "test",
-        "repository": "test",
-        "branch": "test"
+        "owner": "Mikem2343",
+        "repository": "Council7070Content",
+        "branch": "qa"
     },
     "webImages": {
         "source": {},
