@@ -34,5 +34,9 @@
             "provider": "GoogleCloudStorage",
             "bucket": "qa.pictures-cache.storage.kc7070.ca"
         }
+    },
+    "fileConfig": {
+        "provider": "GoogleCloudStorage",
+        "bucket": "qa.files.storage.kc7070.ca"
     }
 }
